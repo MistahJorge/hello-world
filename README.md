@@ -1,2 +1,4 @@
 # hello-world
-The obligatory "hello-world" tutorial to get started with git hub.
+HEY, have you seen CHEF?
+
+My nama... CHEF!!
